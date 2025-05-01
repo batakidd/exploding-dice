@@ -1,6 +1,6 @@
 {
-  "name": "exploding-d6",
-  "title": "Exploding D6s",
+  "id": "exploding-dice",
+  "title": "Exploding Dice",
   "description": "Adds exploding 6s to d6 rolls in Foundry VTT.",
   "version": "1.0.0",
   "authors": [
@@ -13,7 +13,7 @@
   ],
   "minimumCoreVersion": "10",
   "compatibleCoreVersion": "11",
-  "url": "https://github.com/YOUR_USERNAME/YOUR_REPO",
-  "manifest": "https://YOUR_USERNAME.github.io/YOUR_REPO/module.json",
-  "download": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest/download/module.zip"
+  "url": "https://github.com/batakidd/exploding-dice",
+  "manifest": "https://batakidd.github.io/exploding-dice/module.json",
+  "download": "https://github.com/batakidd/exploding-dice/releases/latest/download/module.zip"
 }
