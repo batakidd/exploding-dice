@@ -14,6 +14,6 @@
   "minimumCoreVersion": "10",
   "compatibleCoreVersion": "11",
   "url": "https://github.com/batakidd/exploding-dice",
-  "manifest": "https://batakidd.github.io/exploding-dice/module.json",
+  "manifest": "https://raw.githubusercontent.com/batakidd/exploding-dice/main/module.json",
   "download": "https://github.com/batakidd/exploding-dice/releases/latest/download/module.zip"
 }
