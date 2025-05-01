@@ -3,12 +3,10 @@
   "title": "Exploding Dice",
   "description": "A module to enable exploding dice mechanics, such as rerolling 6s.",
   "version": "1.0.0",
-  "author": "Your Name",
+  "author": "BataKidd",
   "minimumCoreVersion": "0.8.0",
   "compatibleCoreVersion": "9.999.999",
-  "scripts": [
-    "scripts/main.js"
-  ],
+  "scripts": ["scripts/exploding-six.js"],
   "lang": [
     "lang/en.json"
   ],
