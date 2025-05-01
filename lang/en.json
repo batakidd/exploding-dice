@@ -1,3 +1,6 @@
 {
-  "explodingDiceNotification": "Exploding die! Added {{value}} to the roll."
+  "moduleName": "Exploding Dice",
+  "moduleDescription": "A module for handling exploding dice mechanics in your games.",
+  "buttonText": "Roll Exploding Dice",
+  "errorMessage": "An error occurred while rolling the dice."
 }
