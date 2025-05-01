@@ -16,3 +16,5 @@
   "packs": [],
   "system": "age-of-sigmar-soulbound"
 }
+"manifest": "https://batakidd.github.io/foundry-exploding-dice/module.json",
+"download": "https://github.com/yourusername/foundry-exploding-dice/releases/latest/download/module.zip"
