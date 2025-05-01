@@ -1,18 +1,19 @@
 {
-  "name": "exploding-dice",
-  "title": "Exploding Dice",
-  "description": "A module to enable exploding dice mechanics, such as rerolling 6s.",
+  "name": "exploding-d6",
+  "title": "Exploding D6s",
+  "description": "Adds exploding 6s to d6 rolls in Foundry VTT.",
   "version": "1.0.0",
-  "author": "BataKidd",
-  "minimumCoreVersion": "0.8.0",
-  "compatibleCoreVersion": "9.999.999",
-  "scripts": ["scripts/exploding-six.js"],
-  "lang": [
-    "lang/en.json"
+  "authors": [
+    {
+      "name": "BataKidd",
+    }
   ],
-  "dependencies": [],
-  "packs": [],
-  "system": "age-of-sigmar-soulbound"
+  "scripts": [
+    "scripts/exploding-six.js"
+  ],
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "11",
+  "url": "https://github.com/batakidd/exploding-dice",
+  "manifest": "https://batakidd.github.io/exploding-dice/module.json",
+  "download": "https://github.com/batakidd/exploding-dice/releases/latest/download/module.zip"
 }
-"manifest": "https://batakidd.github.io/exploding-dice/module.json",
-"download": "https://github.com/yourusername/exploding-dice/releases/latest/download/module.zip"
